@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap/buttons/input tag button",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "input-tag-button.html",
+  "bundle": {
+    "stylesheet": {},
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [],
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "components": {}
+}

@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap/badge/bg-secondary/rounded-pill",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "rounded-pill.html",
+  "addDependenciesToBundles": false,
+  "bundle": {
+    "stylesheet": {},
+    "stylesheetHeader": "",
+    "stylesheetFooter": "",
+    "scriptHeader": "",
+    "scriptFooter": "",
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [
+    "bootstrap"
+  ],
+  "components": {},
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "fixedHTML": false
+}

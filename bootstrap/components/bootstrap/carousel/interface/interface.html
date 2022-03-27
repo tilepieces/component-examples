@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html><head><link href="../../../../bootstrap.min.css" rel="stylesheet" data-tilepieces-component="bootstrap"></head>
+<body>
+<div id=not-sandbox class="container-fluid" hidden>
+  This component has been designed to work only on sandbox mode. Try to set <a href="#">sandbox</a> on project/global properties.
+</div>
+<div id=not-match class="container-fluid" hidden>
+  This component can't work because carousel component doesn't match. Try to set <a href="#">sandbox</a> on project/global properties.
+</div>
+<main class="container-fluid">
+  <div class="mt-4">
+    <button class="btn btn-primary btn-small" id="add-item">Add item</button>
+  </div>
+  <div class="mt-4">
+    <button class="btn btn-primary btn-small" id="del-item" disabled>Delete current item</button>
+  </div>
+  <div class="mt-4">
+    <input type="number" min=0 step=100 id="carousel-interval" disabled>
+    <label class="form-check-label" for="carousel-interval">
+      Carousel Interval in ms
+    </label>
+  </div>
+  <div class="mt-4">
+    <input class="form-check-input" type="checkbox" value="" id="dark-variant">
+    <label class="form-check-label" for="dark-variant">
+      Dark Variant
+    </label>
+  </div>
+  <div class="mt-4">
+    <input class="form-check-input" type="checkbox" id="Controls">
+    <label class="form-check-label" for="Controls">
+      Controls
+    </label>
+  </div>
+  <div class="mt-4">
+    <input class="form-check-input" type="checkbox" id="Indicators">
+    <label class="form-check-label" for="Indicators">
+      Indicators
+    </label>
+  </div>
+</main>
+
+
+
+<script src="main.js" type="module"></script>
+</body></html>

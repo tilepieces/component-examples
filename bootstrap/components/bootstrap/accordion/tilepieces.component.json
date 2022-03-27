@@ -1,0 +1,34 @@
+{
+  "name": "bootstrap/accordion",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "accordion.html",
+  "addDependenciesToBundles": false,
+  "bundle": {
+    "stylesheet": {},
+    "stylesheetHeader": "",
+    "stylesheetFooter": "",
+    "scriptHeader": "",
+    "scriptFooter": "",
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [
+    "bootstrap"
+  ],
+  "components": [
+  ],
+  "miscellaneous": [
+    "interface"
+  ],
+  "selector": ".bootstrap-accordion",
+  "interface": "interface/interface.html",
+  "fixedHTML": false,
+  "parseHTML": "interface/parseWrapper.js"
+}

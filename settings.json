@@ -1,0 +1,15 @@
+{
+  "server": {
+    "port": 8546,
+    "host": "127.0.0.1"
+  },
+  "workspace": "www",
+  "applicationName": "tilepieces",
+  "panelPosition": "right",
+  "sandboxFrame": true,
+  "componentPath": "components",
+  "miscellaneousDir": "miscellaneous",
+  "delayUpdateFileMs": 500,
+  "imageTypeProcess": 0,
+  "relativePaths": false
+}

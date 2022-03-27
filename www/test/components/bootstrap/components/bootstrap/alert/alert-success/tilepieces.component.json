@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap/alert/alert-success",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "alert-success.html",
+  "addDependenciesToBundles": false,
+  "bundle": {
+    "stylesheet": {},
+    "stylesheetHeader": "",
+    "stylesheetFooter": "",
+    "scriptHeader": "",
+    "scriptFooter": "",
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [
+    "bootstrap"
+  ],
+  "components": {},
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "fixedHTML": false
+}

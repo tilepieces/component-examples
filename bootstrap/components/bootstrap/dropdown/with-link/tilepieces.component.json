@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap/dropdown/with-link",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "with-link.html",
+  "bundle": {
+    "stylesheet": {},
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": ["bootstrap"],
+  "parseHTML": "parseWrapper.js",
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "components": {}
+}

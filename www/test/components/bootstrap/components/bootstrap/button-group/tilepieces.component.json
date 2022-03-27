@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap/button-group",
+  "description": "https://getbootstrap.com/docs/5.1/components/button-group/",
+  "version": "5.1.3",
+  "author": "The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)",
+  "website": "https://getbootstrap.com/docs/5.1/components/button-group/",
+  "repository": "",
+  "html": "button-group.html",
+  "addDependenciesToBundles": false,
+  "bundle": {
+    "stylesheet": {},
+    "stylesheetHeader": "",
+    "stylesheetFooter": "",
+    "scriptHeader": "",
+    "scriptFooter": "",
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [
+    "bootstrap"
+  ],
+  "mergeMiscellaneous": false,
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "fixedHTML": false,
+  "parseHTML": "",
+  "components": {}
+}

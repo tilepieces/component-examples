@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap/card/image-bottom",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "image-bottom.html",
+  "bundle": {
+    "stylesheet": {},
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [],
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "components": {}
+}

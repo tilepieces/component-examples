@@ -1,0 +1,55 @@
+{
+  "name": "bootstrap/badge",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "https://getbootstrap.com/docs/5.1/components/badge/",
+  "repository": "",
+  "html": "",
+  "bundle": {
+    "stylesheet": {},
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [],
+  "components" : {
+    "bootstrap/badge/bg-primary" : {
+      "name": "bootstrap/badge/bg-primary",
+      "path" : "/bg-primary"
+    },
+    "bootstrap/badge/bg-danger" : {
+      "name": "bootstrap/badge/bg-danger",
+      "path" : "/bg-danger"
+    },
+    "bootstrap/badge/bg-dark" : {
+      "name": "bootstrap/badge/bg-dark",
+      "path" : "/bg-dark"
+    },
+    "bootstrap/badge/bg-info" : {
+      "name": "bootstrap/badge/bg-info",
+      "path" : "/bg-info"
+    },
+    "bootstrap/badge/bg-light" : {
+      "name": "bootstrap/badge/bg-light",
+      "path" : "/bg-light"
+    },
+    "bootstrap/badge/bg-secondary" : {
+      "name": "bootstrap/badge/bg-secondary",
+      "path" : "/bg-secondary"
+    },
+    "bootstrap/badge/bg-success" : {
+      "name": "bootstrap/badge/bg-success",
+      "path" : "/bg-success"
+    },
+    "bootstrap/badge/bg-warning" : {
+      "name": "bootstrap/badge/bg-warning",
+      "path" : "/bg-warning"
+    }
+  },
+  "miscellaneous": [],
+  "selector": "",
+  "interface": ""
+}

@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap/spinners",
+  "description": "https://getbootstrap.com/docs/5.1/components/spinners/",
+  "version": "5.1.3",
+  "author": "The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)",
+  "website": "https://getbootstrap.com/docs/5.1/components/spinners/",
+  "repository": "",
+  "html": "spinner.html",
+  "bundle": {
+    "stylesheet": {},
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": ["bootstrap"],
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "parseHTML" : "",
+  "components": {
+    "bootstrap/spinners/growing spinner": {
+      "path": "/growing spinner",
+      "name": "bootstrap/spinners/growing spinner"
+    }
+  }
+}

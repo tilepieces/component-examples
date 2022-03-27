@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap/card/image-top",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "image-top.html",
+  "bundle": {
+    "stylesheet": {},
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [],
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "components": {}
+}

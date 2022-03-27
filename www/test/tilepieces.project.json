@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "components": {
+    "bootstrap": {
+      "name": "bootstrap",
+      "path": "/components/bootstrap"
+    },
+    "ckeditor4": {
+      "name": "ckeditor4",
+      "path": "/components/ckeditor4"
+    }
+  },
+  "openedPanels": [
+    "package-manager",
+    "project-explorer"
+  ],
+  "lastFileOpened": "/index.html"
+}

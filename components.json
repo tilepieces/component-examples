@@ -1,0 +1,10 @@
+{
+  "bootstrap": {
+    "name": "bootstrap",
+    "path": "bootstrap"
+  },
+  "ckeditor4": {
+    "name": "ckeditor4",
+    "path": "ckeditor4"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap",
+  "components": {},
+  "lastFileOpened": "/components/bootstrap/tooltip/tooltip.html",
+  "openedPanels": [
+    "package-manager",
+    "project-explorer",
+    "element-panel",
+    "html-inspector",
+    "component-panel"
+  ],
+  "sandboxFrame": true
+}

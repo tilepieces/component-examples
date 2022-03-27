@@ -1,0 +1,33 @@
+{
+  "name": "ckeditor4-tilepieces-component",
+  "description": "tilepieces component of ckeditor4",
+  "version": "0.0.1",
+  "author": "simone di nuovo <dinuovos@gmail.com>",
+  "website": "https://ckeditor.com/docs/ckeditor4/latest/",
+  "repository": "https://github.com/ckeditor/ckeditor4",
+  "html": "",
+  "addDependenciesToBundles": false,
+  "bundle": {
+    "stylesheet": {},
+    "stylesheetHeader": "",
+    "stylesheetFooter": "",
+    "scriptHeader": "",
+    "scriptFooter": "",
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [],
+  "mergeMiscellaneous": false,
+  "miscellaneous": [
+    "*.*",
+    "!(samples)**/**/*.*"
+  ],
+  "selector": "article,section,aside,main,div,td",
+  "interface": "interface.html",
+  "fixedHTML": false,
+  "parseHTML": "",
+  "components": []
+}

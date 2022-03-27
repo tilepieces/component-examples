@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap/buttons/input tag submit",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "input-tag-submit.html",
+  "bundle": {
+    "stylesheet": {},
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [],
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "components": {}
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap/buttons/input tag reset",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "input-tag-reset.html",
+  "bundle": {
+    "stylesheet": {},
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [],
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "components": {}
+}

@@ -1,0 +1,63 @@
+{
+  "name": "bootstrap/alert",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "alert.html",
+  "addDependenciesToBundles": false,
+  "bundle": {
+    "stylesheet": {},
+    "stylesheetHeader": "",
+    "stylesheetFooter": "",
+    "scriptHeader": "",
+    "scriptFooter": "",
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [
+    "bootstrap"
+  ],
+  "components": {
+    "bootstrap/alert/alert-danger" : {
+      "name" : "bootstrap/alert/alert-danger",
+      "path" : "/alert-danger"
+    },
+    "bootstrap/alert/alert-dark" : {
+      "name" : "bootstrap/alert/alert-dark",
+      "path" : "/alert-dark"
+    },
+    "bootstrap/alert/alert-info" : {
+      "name" : "bootstrap/alert/alert-info",
+      "path" : "/alert-info"
+    },
+    "bootstrap/alert/alert-light" : {
+      "name" : "bootstrap/alert/alert-light",
+      "path" : "/alert-light"
+    },
+    "bootstrap/alert/alert-primary" : {
+      "name" : "bootstrap/alert/alert-primary",
+      "path" : "/alert-primary"
+    },
+    "bootstrap/alert/alert-secondary" : {
+      "name" : "bootstrap/alert/alert-secondary",
+      "path" : "/alert-secondary"
+    },
+    "bootstrap/alert/alert-success" : {
+      "name" : "bootstrap/alert/alert-success",
+      "path" : "/alert-success"
+    },
+    "bootstrap/alert/alert-warning" : {
+      "name" : "bootstrap/alert/alert-warning",
+      "path" : "/alert-warning"
+    }
+  },
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "fixedHTML": false
+}

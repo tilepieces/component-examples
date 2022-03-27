@@ -1,0 +1,35 @@
+{
+  "name": "bootstrap/badge/bg-dark",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "bg-dark.html",
+  "addDependenciesToBundles": false,
+  "bundle": {
+    "stylesheet": {},
+    "stylesheetHeader": "",
+    "stylesheetFooter": "",
+    "scriptHeader": "",
+    "scriptFooter": "",
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [
+    "bootstrap"
+  ],
+  "components": {
+    "bootstrap/badge/bg-dark/rounded-pill" : {
+      "path" : "/rounded-pill",
+      "name" : "bootstrap/badge/bg-dark/rounded-pill"
+    }
+  },
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "fixedHTML": false
+}

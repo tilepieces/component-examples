@@ -1,0 +1,35 @@
+{
+  "name": "bootstrap/badge/bg-light",
+  "description": "",
+  "version": "",
+  "author": "",
+  "website": "",
+  "repository": "",
+  "html": "bg-light.html",
+  "addDependenciesToBundles": false,
+  "bundle": {
+    "stylesheet": {},
+    "stylesheetHeader": "",
+    "stylesheetFooter": "",
+    "scriptHeader": "",
+    "scriptFooter": "",
+    "script": {}
+  },
+  "sources": {
+    "stylesheets": [],
+    "scripts": []
+  },
+  "dependencies": [
+    "bootstrap"
+  ],
+  "components": {
+    "bootstrap/badge/bg-light/rounded-pill" : {
+      "path" : "/rounded-pill",
+      "name" : "bootstrap/badge/bg-light/rounded-pill"
+    }
+  },
+  "miscellaneous": [],
+  "selector": "",
+  "interface": "",
+  "fixedHTML": false
+}
